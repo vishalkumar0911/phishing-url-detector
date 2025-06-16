@@ -16,12 +16,15 @@ PhishGuard is a simple tool to detect phishing URLs using rule-based and ML meth
 ## 📸 Screenshots
 
 ### GUI
-![GUI](Screenshots\Phising detection GUI .png)
+![GUI](screenshots/gui_sample.png)
 
 ### Terminal Output
 ![Output](screenshots/terminal_output.png)
 
----
+### 🖥️ GUI Interface
+
+![GUI](screenshots/gui_screenshot.png)
+
 
 ## 💡 Run Locally
 
