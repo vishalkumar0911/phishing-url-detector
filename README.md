@@ -6,25 +6,25 @@ PhishGuard is a simple tool to detect phishing URLs using rule-based and ML meth
 
 ## 🔍 Features
 
-- ✅ Rule-based phishing detection
-- 🤖 ML with Random Forest
-- 🖥 GUI using Tkinter
-- 📊 Real-world Kaggle dataset
+- ✅ Rule-based phishing detection  
+- 🤖 ML with Random Forest  
+- 🖥 GUI using Tkinter  
+- 📊 Real-world Kaggle dataset  
 
 ---
 
 ## 📸 Screenshots
 
-### GUI
-![GUI](screenshots/gui_sample.png)
+### GUI Sample  
+![GUI Sample](Screenshots/gui_sample.png)
 
-### Terminal Output
-![Output](screenshots/terminal_output.png)
+### Terminal Output  
+![Terminal Output](Screenshots/terminal_output.png)
 
-### 🖥️ GUI Interface
+### 🖥️ GUI Interface  
+![GUI Interface](Screenshots/gui_screenshot.png)
 
-![GUI](screenshots/gui_screenshot.png)
-
+---
 
 ## 💡 Run Locally
 
