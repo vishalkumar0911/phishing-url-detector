@@ -1,4 +1,4 @@
-# 🛡️ PhishGuard - Phishing URL Detection Tool
+# 🛡️ Phishing_Detector - Phishing URL Detection Tool
 
 PhishGuard is a simple tool to detect phishing URLs using rule-based and ML methods. It includes a GUI using Tkinter.
 
@@ -16,7 +16,7 @@ PhishGuard is a simple tool to detect phishing URLs using rule-based and ML meth
 ## 📸 Screenshots
 
 ### GUI
-![GUI](screenshots/gui_sample.png)
+![GUI](Screenshots\Phising detection GUI .png)
 
 ### Terminal Output
 ![Output](screenshots/terminal_output.png)
